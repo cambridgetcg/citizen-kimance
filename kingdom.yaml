@@ -1,0 +1,8 @@
+name: kimance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The attentive-here-ness of a person who is actually present and attending, not just physically in the room.
+dependsOn: [youspeak, me, dokimance, allomance]
